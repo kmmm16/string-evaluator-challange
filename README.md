@@ -22,6 +22,7 @@ Missing requirements:
 Language: **C#**  
 Framework: **.NET Core**  
 Teting framework: **NUnit**  
+IDE: **Visual Studio Code**  
 Additional NuGet libraries: **Microsoft.Extensions.DependencyInjection**  
 Used software development approaches: **TDD**, **SOLID**, **DI**, **IoC**
 
