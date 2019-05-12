@@ -59,7 +59,8 @@ You can find the whole process with implementation details in the code in the me
 
 ### Extra solution (just for comparing)
 As an extra, I placed a solution founded on stack overflow site.
-It is just an implemented solution from *System* namespace, and you should treat it just like a bonus :sunglasses:.
+It is just an implemented solution from *System* namespace, and you should treat it just like a bonus :sunglasses:.  
+It is placed in *StringEvaluation.Logic* in *Implementation* folder as *SODDStringEvaluator* class.
 
 ## Important information
 The repository is missing from the original commit history because of many changes of concept that I had along the way, and of some work commits which were not well described.  
